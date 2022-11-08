@@ -1,1 +1,1 @@
-This is an chrome extension for leads tracking.
+This is a chrome extension for leads tracking.
